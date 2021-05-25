@@ -11,12 +11,13 @@ This is a simple app that fetches random wallpaper from reddit and set it as bac
  `pacman -S nodejs npm`  
  fedora/centOS:
  `sudo dnf install nodejs`  
-
+ 
 **Installation**:  
 `git clone https://github.com/andrewasd/RedditWallPaper.git`  
 `cd RedditWallpaper`  
 `chmod +x ./setwallpaper.sh`   
 
+you can select the subreddits you want to chose in setwallpaper.sh, 
 
 **set background once** :  
 `./setwallpaper.sh`
