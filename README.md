@@ -17,6 +17,7 @@ This is a simple app that fetches random wallpaper from reddit and set it as bac
 `cd RedditWallpaper`  
 `chmod +x ./setwallpaper.sh`   
 
+
 you can select the subreddits you want to chose in setwallpaper.sh
 
 **set background once** :  
@@ -24,6 +25,9 @@ you can select the subreddits you want to chose in setwallpaper.sh
 
 **change background in an interval of time**  
 `watch -n <seconds> ./setwallpaper.sh`
+
+if you want to add to the path so you can can call the script everywhere
+`echo "PATH=""`pwd`:"$"PATH">> /home/`whoami`/.bashrc`
 
 
 
