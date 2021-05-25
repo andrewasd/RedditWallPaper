@@ -26,8 +26,8 @@ you can select the subreddits you want to chose in setwallpaper.sh
 **change background in an interval of time**  
 `watch -n <seconds> ./setwallpaper.sh`
 
-if you want to add to the path so you can can call the script everywhere
-`echo "PATH=""`pwd`:"$"PATH">> /home/`whoami`/.bashrc`
+if you want to add to the path so you can can call the script everywhere  
+``echo "PATH=""`pwd`:"$"PATH">> /home/`whoami`/.bashrc``
 
 
 
