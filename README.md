@@ -18,7 +18,7 @@ This is a simple app that fetches random wallpaper from reddit and set it as bac
 `chmod +x ./setwallpaper.sh`   
 
 
-you can select the subreddits you want to chose in setwallpaper.sh
+you can select the subreddits you want to chose in RedditConfig.json
 
 **set background once** :  
 `./setwallpaper.sh`
