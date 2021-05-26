@@ -8,7 +8,7 @@ curl ,node.js
 Ubuntu/Debian  
 `sudo apt install nodejs`  
 `sudo apt install curl`  
-arch
+arch  
 `pacman -S nodejs npm`  
 `pacman -S curl`  
 fedora/centOS  
