@@ -1,1 +1,0 @@
-watch -n 5 ./setwallpaper.sh

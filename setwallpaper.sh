@@ -1,14 +1,11 @@
 #!/bin/bash
 
-#settings
-#---------------------------------------------------------------
-SUBS=("art,pics,earthporn,oldschoolcool,images")
-SORTBY="hot" #available ->new/
-#---------------------------------------------------------------
+REDDIT_LINK=`node ./getwallpaper.js`
+PICTURE_NAME=$RANDOM.jpg
 
-SUBS=${SUBS//,/ }" ${SORTBY}"
+curl $REDDIT_LINK --output pics/${PICTURE_NAME}
 
-WALLPAPER_LINK=`node ./getwallpaper.js $SUBS`
+IMAGE=`pwd`/pics/${PICTURE_NAME}
 
 
 case ${XDG_CURRENT_DESKTOP} in
@@ -21,29 +18,23 @@ case ${XDG_CURRENT_DESKTOP} in
         screens[i].currentConfigGroup = Array('Wallpaper',
                                     'org.kde.image',
                                     'General');
-        screens[i].writeConfig('Image', '${WALLPAPER_LINK}')
+        screens[i].writeConfig('Image', '${IMAGE}')
     }"
     ;;
 
   GNOME)
-    `gsettings set org.gnome.desktop.background picture-uri "${WALLPAPER_LINK}"`
+    `gsettings set org.gnome.desktop.background picture-uri "${IMAGE}"`
     ;;
 
   UNITY)
-    `gsettings set org.gnome.desktop.background picture-uri "${WALLPAPER_LINK}"`
+    `gsettings set org.gnome.desktop.background picture-uri "${IMAGE}"`
     ;;
 
   CINNAMON)
-    `gsettings set org.cinnamon.desktop.background picture-uri  "${WALLPAPER_LINK}"`
+    `gsettings set org.cinnamon.desktop.background picture-uri  "${IMAGE}"`
     ;;
 esac
 
-
-
-#uncomment if you want to save the pic
-curl $WALLPAPER_LINK --output pics/$RANDOM.jpg 
-
-#setting wallpaper
 
 
 

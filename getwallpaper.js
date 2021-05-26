@@ -1,42 +1,47 @@
 const fetch = require("node-fetch");
+const fs = require("fs");
+const { exec } = require("child_process");
 
-const sortType = process.argv.pop();
-const subs = process.argv.slice(2);
+let config = JSON.parse(fs.readFileSync("redditConfig.json"));
 
-const fetchNow = function () 
+const sortType = config.sortby;
+const subs = config.subreddits;
+const removeoldpics = config.deleteOldPics;
+
+
+fetchRandomUrl();
+
+
+function deleteOldPics()
 {
+  exec("rm -rf ./pics/*");
+}
+
+async function fetchRandomUrl () 
+{
+  await deleteOldPics();
   const randomSub = subs[getRandomInteger(0,subs.length-1)];
 
   const url = createUrl(randomSub,sortType);
-
-  fetch(url, { method: "Get"})
+   
+    fetch(url, { method: "Get"})
     .then((res) => res.json())
     .then((json) => {
+
       const total = json.data.children.length;
       const index = Math.floor(Math.random() * total);
 
       const imageLink = json.data.children[index].data.url;
 
-      if (
-        imageLink.endsWith(".png") ||
-        imageLink.endsWith(".jpg") ||
-        imageLink.endsWith(".jpeg")
-      )
+      if(isPicture(imageLink))
       {
         console.log(imageLink);
         process.exit();
-      }
-    
-      
-        fetchNow();
-      
-       
+      }  
 
-      
-    });
+        fetchRandomUrl();  
+    }); 
 }
-
-fetchNow();
 
 function createUrl(subRedditName,sortOrder)
 {
@@ -48,4 +53,8 @@ function getRandomInteger(min, max)
     return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
+function isPicture(url) {
+  if (url.endsWith(".png") || url.endsWith(".jpg") || url.endsWith(".jpeg"))
+    return true;
+}
 
