@@ -11,7 +11,7 @@ it supports GNOME,KDE,CINNAMON,UNITY
 curl ,node.js  
  
 **Installation**:  
-`git clone https://github.com/andrewasd/RedditWallPaper.git &&  
+`git clone https://github.com/andrewasd/RedditWallPaper.git &&\
 cd RedditWallPaper &&  
 chmod +x install.sh &&  
 ./install.sh  
