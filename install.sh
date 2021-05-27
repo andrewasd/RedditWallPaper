@@ -8,6 +8,7 @@ chmod +x src/*
 
 cp -r src/* ${INSTALL_DIR}
 chmod +x /home/`whoami`/.RedditWallPaper/*
+mkdir /home/`whoami`/.RedditWallPaper/pics
 # add to path
 echo "PATH=""${INSTALL_DIR}:"\$"PATH">> /home/`whoami`/.bashrc
 export PATH=${INSTALL_DIR}:$PATH
