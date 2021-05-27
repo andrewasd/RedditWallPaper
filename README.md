@@ -2,7 +2,7 @@
 A program to automatically set your wallpaper from random reddit subs
 
 This is a simple app that fetches random wallpaper from reddit and set it as background  
-you can select the subreddits you want to chose in RedditConfig.json
+you can select the subreddits you want to chose with `redwall config`
 
 it supports GNOME,KDE,CINNAMON,UNITY  
 
