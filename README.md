@@ -21,7 +21,7 @@ chmod +x install.sh &&
 `redwall config`
 
 **set random background once** :  
-`redwall set`
+`redwall change`
 
 **change random background every x seconds**  
 `redwall set <seconds>`  

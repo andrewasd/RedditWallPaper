@@ -5,7 +5,7 @@ REDDIT_LINK=`node $DIRECTORY/getwallpaper.js $DIRECTORY`
 PICTURE_NAME=$RANDOM.jpg
 
 
-curl $REDDIT_LINK --output $DIRECTORY/pics/${PICTURE_NAME}
+curl -s $REDDIT_LINK --output $DIRECTORY/pics/${PICTURE_NAME}
 
 IMAGE=$DIRECTORY/pics/${PICTURE_NAME}
 
