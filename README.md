@@ -11,10 +11,10 @@ it supports GNOME,KDE,CINNAMON,UNITY
 curl ,node.js  
  
 **Installation**:  
-`git clone https://github.com/andrewasd/RedditWallPaper.git &&
-cd RedditWallPaper &&
-chmod +x install.sh &&
-./install.sh
+`git clone https://github.com/andrewasd/RedditWallPaper.git &&  
+cd RedditWallPaper &&  
+chmod +x install.sh &&  
+./install.sh  
 `
 
 **Chose desired subreddits and configurations**
