@@ -23,20 +23,16 @@ fedora/centOS
 **Installation**:  
 `git clone https://github.com/andrewasd/RedditWallPaper.git`  
 `cd RedditWallpaper`  
-`chmod +x ./setwallpaper.sh`   
-`chmod +x ./changeWallPaperInterval`
+`chmod +x ./install.sh`   
+`./install.sh`
 
 
 **set background once** :  
-`./setwallpaper.sh`
+`redwall set`
 
 **change background every x seconds**  
-`./changeWallPaperInterval <seconds>`  
- if you want to close the terminal while continuing to running in the background   
- `nohup ./changeWallPaperInterval <seconds> & disown`  
-
-if you want to add to the path so you can can call the script everywhere  
-``echo "PATH=""`pwd`:"$"PATH">> /home/`whoami`/.bashrc``
+`redwall set <seconds>`  
+    to stop: `redwall stop`  
 
 
 
