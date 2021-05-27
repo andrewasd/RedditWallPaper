@@ -35,3 +35,8 @@ then
       echo "wallpaper changed"
 fi
 fi
+
+if [[ "$1" == "config" ]]
+then
+   xdg-open /home/`whoami`/.RedditWallPaper/redditConfig.json
+fi

@@ -16,11 +16,13 @@ curl ,node.js
 `chmod +x ./install.sh`   
 `./install.sh`
 
+**Chose desired subreddits and configurations**
+`redwall config`
 
-**set background once** :  
+**set random background once** :  
 `redwall set`
 
-**change background every x seconds**  
+**change random background every x seconds**  
 `redwall set <seconds>`  
     to stop: `redwall stop`  
 
