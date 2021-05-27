@@ -33,7 +33,7 @@ case ${XDG_CURRENT_DESKTOP} in
     ;;
 
   CINNAMON)
-    `gsettings set org.cinnamon.desktop.background picture-uri  "${IMAGE}"`
+    `gsettings set org.cinnamon.desktop.background picture-uri "${IMAGE}"`
     ;;
 esac
 
