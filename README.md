@@ -9,16 +9,6 @@ it supports GNOME,KDE,CINNAMON,UNITY
 
 **Requirments**  
 curl ,node.js  
-Ubuntu/Debian  
-`sudo apt install nodejs`  
-`sudo apt install curl`  
-arch  
-`pacman -S nodejs npm`  
-`pacman -S curl`  
-fedora/centOS  
-`sudo dnf install nodejs`  
-`sudo dnf install curl`  
-
  
 **Installation**:  
 `git clone https://github.com/andrewasd/RedditWallPaper.git`  
