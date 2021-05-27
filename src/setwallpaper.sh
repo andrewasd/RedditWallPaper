@@ -9,7 +9,7 @@ curl $REDDIT_LINK --output $DIRECTORY/pics/${PICTURE_NAME}
 
 IMAGE=$DIRECTORY/pics/${PICTURE_NAME}
 
-
+echo $IMAGE > /home/`whoami`/Desktop/file.txt
 case ${XDG_CURRENT_DESKTOP} in
 
   KDE)
