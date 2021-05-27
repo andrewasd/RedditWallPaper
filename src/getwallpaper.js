@@ -1,8 +1,9 @@
 const fetch = require("node-fetch");
 const fs = require("fs");
 const { exec } = require("child_process");
+const { argv } = require("process");
 
-let config = JSON.parse(fs.readFileSync("redditConfig.json"));
+const config = JSON.parse(fs.readFileSync(argv[2]+"/redditConfig.json"));
 
 const sortType = config.sortby;
 const subs = config.subreddits;
@@ -11,11 +12,6 @@ const removeoldpics = config.deleteOldPics;
 
 fetchRandomUrl();
 
-
-function deleteOldPics()
-{
-  exec("rm -rf ./pics/*");
-}
 
 async function fetchRandomUrl () 
 {
@@ -41,6 +37,12 @@ async function fetchRandomUrl ()
 
         fetchRandomUrl();  
     }); 
+}
+
+
+function deleteOldPics()
+{
+  exec("rm -rf ./pics/*");
 }
 
 function createUrl(subRedditName,sortOrder)

@@ -1,0 +1,37 @@
+#!/bin/bash
+if [[ "$1" == "stop" ]]
+then
+IFS=' '
+PID=`pidof watch`
+read -ra ADDR <<<"$PID"
+  
+for i in "${ADDR[@]}"; 
+do  
+kill $i  
+done  
+echo "process killed"
+exit
+fi
+
+VAL=$2;
+
+if [ "$VAL" == "" ]; then
+  VAL=-1
+fi
+
+
+if [ $VAL -ge 0 ]; then
+    ISNUM=true
+fi
+
+
+if [[ "$1" == "set" ]]
+then
+   if [[ "$ISNUM" == "true" ]]; then
+      watch -n $VAL setwallpaper.sh > /dev/null & disown
+      exec
+     else
+      setwallpaper.sh
+      echo "wallpaper changed"
+fi
+fi

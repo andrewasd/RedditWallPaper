@@ -1,11 +1,13 @@
 #!/bin/bash
 
-REDDIT_LINK=`node ./getwallpaper.js`
+DIRECTORY=/home/`whoami`/.RedditWallPaper
+REDDIT_LINK=`node $DIRECTORY/getwallpaper.js $DIRECTORY`
 PICTURE_NAME=$RANDOM.jpg
 
-curl $REDDIT_LINK --output pics/${PICTURE_NAME}
 
-IMAGE=`pwd`/pics/${PICTURE_NAME}
+curl -s $REDDIT_LINK --output $DIRECTORY/pics/${PICTURE_NAME}
+
+IMAGE=$DIRECTORY/pics/${PICTURE_NAME}
 
 
 case ${XDG_CURRENT_DESKTOP} in
