@@ -3,7 +3,10 @@ INSTALL_DIR=/home/`whoami`/.RedditWallPaper
 
 rm -rf ${INSTALL_DIR}
 mkdir  ${INSTALL_DIR}
+
 chmod +x src/*
+chmod +x /home/`whoami`/.RedditWallPaper/*
+
 cp -r src/* ${INSTALL_DIR}
 
 # add to path
