@@ -37,6 +37,11 @@ mkdir /home/`whoami`/.RedditWallPaper/pics
 # add to path
 echo "PATH=""${INSTALL_DIR}:"\$"PATH">> /home/`whoami`/.bashrc
 export PATH=${INSTALL_DIR}:$PATH
+
+#removing directory
+cd ..
+rm -rf RedditWallPaper/*
+
 echo "installation complete"
 echo "1)to select which subreddit you want type 'redwall config'"
 echo "2)to get a random wallpaper from the chosen subs type 'redwall set'"
