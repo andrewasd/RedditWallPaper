@@ -1,7 +1,7 @@
 #!/bin/bash
 
 DIRECTORY=/home/`whoami`/.RedditWallPaper
-REDDIT_LINK=`node $DIRECTORY/getwallpaper.js $DIRECTORY`
+REDDIT_LINK=`$DIRECTORY/fetchwallpaper $@`
 PICTURE_NAME=$RANDOM.jpg
 
 

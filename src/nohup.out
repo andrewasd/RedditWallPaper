@@ -1,0 +1,305 @@
+[90m[main 2021-05-26T12:34:41.492Z][0m update#setState idle
+(node:1862) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+[90m[main 2021-05-26T12:35:11.496Z][0m update#setState checking for updates
+[90m[main 2021-05-26T12:35:11.551Z][0m update#setState available for download
+
+(code-insiders:1744): Gtk-WARNING **: 20:12:42.965: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+
+(code-insiders:1744): Gtk-WARNING **: 20:12:42.965: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:1744): Gtk-WARNING **: 20:12:43.008: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:1744): Gtk-WARNING **: 20:12:52.142: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:1744): Gtk-WARNING **: 20:12:52.158: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:1744): Gtk-WARNING **: 22:20:32.752: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:1744): Gtk-WARNING **: 22:20:32.765: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:1744): Gtk-WARNING **: 00:12:27.394: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:1744): Gtk-WARNING **: 00:12:27.400: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:1744): Gtk-WARNING **: 00:12:45.353: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:1744): Gtk-WARNING **: 00:12:45.365: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:1744): Gtk-WARNING **: 00:25:22.897: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:1744): Gtk-WARNING **: 00:25:22.915: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+[91m[main 2021-05-28T12:45:38.299Z][0m [File Watcher (node.js)] Failed to watch /home/andreipc/.config/Code - Insiders/User for changes using fs.watch() (Error: EMFILE: too many open files, watch '/home/andreipc/.config/Code - Insiders/User')
+[91m[main 2021-05-28T12:45:38.309Z][0m [File Watcher (node.js)] Failed to watch /home/andreipc/.config/Code - Insiders/User/settings.json for changes using fs.watch() (Error: EMFILE: too many open files, watch '/home/andreipc/.config/Code - Insiders/User/settings.json')
+[90m[main 2021-05-31T10:30:24.753Z][0m update#setState idle
+(node:29199) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+[90m[main 2021-05-31T10:30:54.772Z][0m update#setState checking for updates
+[90m[main 2021-05-31T10:30:54.834Z][0m update#setState available for download
+
+(code-insiders:29072): Gtk-WARNING **: 13:05:41.219: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+
+(code-insiders:29072): Gtk-WARNING **: 13:05:41.220: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 13:05:41.269: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 13:06:06.758: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 13:06:06.820: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 13:06:35.671: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 13:06:35.738: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 13:07:44.572: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 13:07:44.634: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 13:07:59.553: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 13:07:59.617: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 13:12:24.559: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 13:12:24.620: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 13:18:43.722: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 13:18:43.762: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 13:19:16.084: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 13:19:16.147: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 13:21:27.082: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 13:21:27.147: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 13:21:55.154: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 13:21:55.225: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 13:22:13.080: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 13:22:13.144: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 13:22:49.915: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 13:22:49.983: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 14:26:08.908: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 14:26:08.969: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 14:26:25.189: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 14:26:25.249: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 14:34:24.173: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 14:34:24.240: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 14:39:25.124: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 14:39:25.221: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 14:41:17.399: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 14:41:17.411: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 15:34:49.779: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 15:34:49.825: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 16:02:02.840: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 16:02:02.886: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 16:02:29.090: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 16:02:29.133: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 16:03:03.084: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 16:03:03.146: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 16:03:29.919: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 16:03:29.982: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 16:04:02.090: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 16:04:02.154: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 16:05:32.227: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 16:05:32.294: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 16:06:30.907: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 16:06:30.924: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 16:08:07.113: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 16:08:07.176: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 16:17:53.778: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 16:17:53.844: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 16:18:24.284: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 16:18:24.345: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 16:20:52.554: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 16:20:52.630: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 18:30:41.453: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 18:30:41.485: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 18:31:28.092: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 18:31:28.121: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 18:35:48.307: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:29072): Gtk-WARNING **: 18:35:48.384: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+[91m[main 2021-05-31T16:41:24.168Z][0m P [Error]: Unable to write file '/home/andreipc/.config/Code - Insiders/storage.json' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/andreipc/.config/Code - Insiders/storage.json')
+    at a.writeFile (/usr/share/code-insiders/resources/app/out/vs/code/electron-main/main.js:30:16801)
+    at async i.doSave (/usr/share/code-insiders/resources/app/out/vs/code/electron-main/main.js:58:11613) {
+  fileOperationResult: 6,
+  options: undefined
+}
+[91m[main 2021-05-31T16:41:24.452Z][0m [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: colorThemeData Length: 9415
+[91m[main 2021-05-31T16:41:25.056Z][0m P [Error]: Unable to write file '/home/andreipc/.config/Code - Insiders/storage.json' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/andreipc/.config/Code - Insiders/storage.json')
+    at a.writeFile (/usr/share/code-insiders/resources/app/out/vs/code/electron-main/main.js:30:16801)
+    at async i.doSave (/usr/share/code-insiders/resources/app/out/vs/code/electron-main/main.js:58:11613) {
+  fileOperationResult: 6,
+  options: undefined
+}
+[91m[main 2021-05-31T16:41:25.165Z][0m [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: editorOverrideService.cache Length: 112
+[91m[main 2021-05-31T16:41:26.855Z][0m P [Error]: Unable to write file '/home/andreipc/.config/Code - Insiders/storage.json' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/andreipc/.config/Code - Insiders/storage.json')
+    at a.writeFile (/usr/share/code-insiders/resources/app/out/vs/code/electron-main/main.js:30:16801)
+    at async i.doSave (/usr/share/code-insiders/resources/app/out/vs/code/electron-main/main.js:58:11613) {
+  fileOperationResult: 6,
+  options: undefined
+}
+[91m[main 2021-05-31T16:41:30.094Z][0m P [Error]: Unable to write file '/home/andreipc/.config/Code - Insiders/storage.json' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/andreipc/.config/Code - Insiders/storage.json')
+    at a.writeFile (/usr/share/code-insiders/resources/app/out/vs/code/electron-main/main.js:30:16801)
+    at async i.doSave (/usr/share/code-insiders/resources/app/out/vs/code/electron-main/main.js:58:11613) {
+  fileOperationResult: 6,
+  options: undefined
+}
+[91m[main 2021-05-31T16:41:33.302Z][0m P [Error]: Unable to write file '/home/andreipc/.config/Code - Insiders/storage.json' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/andreipc/.config/Code - Insiders/storage.json')
+    at a.writeFile (/usr/share/code-insiders/resources/app/out/vs/code/electron-main/main.js:30:16801)
+    at async i.doSave (/usr/share/code-insiders/resources/app/out/vs/code/electron-main/main.js:58:11613) {
+  fileOperationResult: 6,
+  options: undefined
+}
+[91m[main 2021-05-31T16:41:33.926Z][0m P [Error]: Unable to write file '/home/andreipc/.config/Code - Insiders/storage.json' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/andreipc/.config/Code - Insiders/storage.json')
+    at a.writeFile (/usr/share/code-insiders/resources/app/out/vs/code/electron-main/main.js:30:16801)
+    at async i.doSave (/usr/share/code-insiders/resources/app/out/vs/code/electron-main/main.js:58:11613) {
+  fileOperationResult: 6,
+  options: undefined
+}
+[91m[main 2021-05-31T16:41:38.315Z][0m P [Error]: Unable to write file '/home/andreipc/.config/Code - Insiders/storage.json' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/andreipc/.config/Code - Insiders/storage.json')
+    at a.writeFile (/usr/share/code-insiders/resources/app/out/vs/code/electron-main/main.js:30:16801)
+    at async i.doSave (/usr/share/code-insiders/resources/app/out/vs/code/electron-main/main.js:58:11613) {
+  fileOperationResult: 6,
+  options: undefined
+}
+[91m[main 2021-05-31T16:42:33.390Z][0m P [Error]: Unable to write file '/home/andreipc/.config/Code - Insiders/storage.json' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/andreipc/.config/Code - Insiders/storage.json')
+    at a.writeFile (/usr/share/code-insiders/resources/app/out/vs/code/electron-main/main.js:30:16801)
+    at async i.doSave (/usr/share/code-insiders/resources/app/out/vs/code/electron-main/main.js:58:11613) {
+  fileOperationResult: 6,
+  options: undefined
+}
+[91m[main 2021-05-31T16:42:34.222Z][0m P [Error]: Unable to write file '/home/andreipc/.config/Code - Insiders/storage.json' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/andreipc/.config/Code - Insiders/storage.json')
+    at a.writeFile (/usr/share/code-insiders/resources/app/out/vs/code/electron-main/main.js:30:16801)
+    at async i.doSave (/usr/share/code-insiders/resources/app/out/vs/code/electron-main/main.js:58:11613) {
+  fileOperationResult: 6,
+  options: undefined
+}
+[91m[main 2021-05-31T16:42:34.516Z][0m P [Error]: Unable to write file '/home/andreipc/.config/Code - Insiders/storage.json' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/andreipc/.config/Code - Insiders/storage.json')
+    at a.writeFile (/usr/share/code-insiders/resources/app/out/vs/code/electron-main/main.js:30:16801)
+    at async i.doSave (/usr/share/code-insiders/resources/app/out/vs/code/electron-main/main.js:58:11613) {
+  fileOperationResult: 6,
+  options: undefined
+}
+[91m[main 2021-05-31T16:43:00.151Z][0m [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: memento/workbench.editors.files.textFileEditor Length: 1693
+Gtk-Message: 14:15:11.523: Failed to load module "appmenu-gtk-module"
+[90m[main 2021-06-01T12:15:11.764Z][0m update#setState idle
+(node:3846) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+[90m[main 2021-06-01T12:15:41.781Z][0m update#setState checking for updates
+[90m[main 2021-06-01T12:15:41.841Z][0m update#setState available for download
+
+(code-insiders:3722): Gtk-WARNING **: 14:33:45.749: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+
+(code-insiders:3722): Gtk-WARNING **: 14:33:45.749: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:33:45.770: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:33:45.851: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:33:45.868: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:33:45.885: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:33:47.202: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:33:47.219: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:33:47.235: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:33:47.883: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:33:47.900: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:33:47.917: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:33:48.314: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:39:46.734: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:39:46.739: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:39:46.799: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:39:46.817: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:39:46.834: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:39:48.183: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:39:59.497: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:39:59.505: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:39:59.585: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:39:59.603: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:39:59.620: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:40:00.665: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:40:03.339: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:40:03.342: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:40:03.402: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:40:03.419: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:40:03.436: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:40:03.454: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:3722): Gtk-WARNING **: 14:40:03.859: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+[3752:0601/215201.570904:ERROR:gl_utils.cc(314)] [.RendererMainThread-0x13239e7bf500] GL_INVALID_FRAMEBUFFER_OPERATION: Draw framebuffer is incomplete

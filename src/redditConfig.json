@@ -1,5 +1,7 @@
 {
-    "subreddits":["earthporn","wallpaper"],
-    "sortby":"new",
-    "deleteOldPics":true
+    "subreddits":["art","wallpapers"],
+    "sort":"hot",
+    "match":"",
+    "limit":30
+
 }

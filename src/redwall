@@ -37,7 +37,8 @@ fi
 
 if [[ "$1" == "change" ]]
 then
-  setwallpaper.sh
+  shift
+  setwallpaper.sh $@
 fi
 
 
