@@ -1,7 +1,6 @@
 {
-    "subreddits":["art","wallpapers"],
+    "subreddits":["earthPorn","wallpapers"],
     "sort":"hot",
     "match":"",
     "limit":30
-
 }
