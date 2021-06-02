@@ -4,3 +4,10 @@ Gtk-Message: 19:19:48.677: Failed to load module "appmenu-gtk-module"
 [90m[main 2021-06-02T17:19:49.049Z][0m update#setState idle
 [90m[main 2021-06-02T17:20:19.056Z][0m update#setState checking for updates
 [90m[main 2021-06-02T17:20:19.122Z][0m update#setState available for download
+
+(code-insiders:243952): Gtk-WARNING **: 19:20:57.548: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+
+(code-insiders:243952): Gtk-WARNING **: 19:20:57.550: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:243952): Gtk-WARNING **: 19:20:57.618: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory

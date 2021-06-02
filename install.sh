@@ -33,8 +33,10 @@ export PATH=${INSTALL_DIR}:$PATH
 #cd ..
 #rm -rf RedditWallPaper/*
 
+tput setaf 014
 echo "installation complete"
 echo "1)to select which subreddit you want type 'redwall config'"
 echo "2)to get a random wallpaper from the chosen subs type 'redwall change'"
 echo "3)to change backround every x seconds type 'redwall set <seconds>'"
+reset=`tput sgr0`
 exec bash -l
