@@ -6,6 +6,8 @@ you can select the subreddits you want to chose with `redwall config`
 
 it supports GNOME,KDE,CINNAMON,UNITY  
 
+![alt text](https://pbs.twimg.com/media/EAF9qbVXkAAo1io.jpg)
+
 
 **Requirments**  
 curl
