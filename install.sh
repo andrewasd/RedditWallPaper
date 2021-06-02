@@ -35,6 +35,6 @@ export PATH=${INSTALL_DIR}:$PATH
 
 echo "installation complete"
 echo "1)to select which subreddit you want type 'redwall config'"
-echo "2)to get a random wallpaper from the chosen subs type 'redwall set'"
+echo "2)to get a random wallpaper from the chosen subs type 'redwall change'"
 echo "3)to change backround every x seconds type 'redwall set <seconds>'"
 exec bash -l

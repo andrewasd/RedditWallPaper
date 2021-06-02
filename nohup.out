@@ -1,2 +1,6 @@
 Gtk-Message: 15:43:08.581: Failed to load module "appmenu-gtk-module"
 Gtk-Message: 17:54:04.475: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:19:48.677: Failed to load module "appmenu-gtk-module"
+[90m[main 2021-06-02T17:19:49.049Z][0m update#setState idle
+[90m[main 2021-06-02T17:20:19.056Z][0m update#setState checking for updates
+[90m[main 2021-06-02T17:20:19.122Z][0m update#setState available for download
