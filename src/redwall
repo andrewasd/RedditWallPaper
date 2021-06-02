@@ -19,10 +19,16 @@ if [ "$VAL" == "" ]; then
   VAL=-1
 fi
 
+#check if value 
 
-if [ $VAL -ge 0 ]; then
-    ISNUM=true
+if  [[ "$scale" =~ ^[0-9]+$ ]]
+    then
+        if [ $VAL -ge 0 ]; then
+          ISNUM=true
 fi
+fi
+
+
 
 
 if [[ "$1" == "set" ]]
