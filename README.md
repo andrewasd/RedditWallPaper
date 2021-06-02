@@ -36,7 +36,7 @@ you can also select to match something example
 `redwall change -r earthPorn -m norway`  
 returns a pic from /r/earthPorn related to norway  
 
-you can call the match aslo without the sub  
+you can call the match also without the sub  
 `redwall change -m norway`  
 return a pic related to norway regardless of the subreddit  
 
