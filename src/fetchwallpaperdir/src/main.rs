@@ -23,7 +23,6 @@ fn get_info() -> QueryInfo {
         , _ => panic!("cannot find subreddit in conf")
     };
 
-
     return QueryInfo {
         subreddit: match subs.choose(&mut ThreadRng::default())
         {
@@ -99,6 +98,7 @@ async fn main() {
         )
     };
 
+  /*   println!("url is {}", url); */
   /*   println!("url is {}", url);
     println!("ns:{}", now.elapsed().as_nanos()); */
     println!("{}", get_pic_url(&url).await);
@@ -124,18 +124,24 @@ fn read_json_from_file<P: AsRef<Path>>(path: P) -> Value {
 }
 
 fn create_url_sub(subreddit: &str, sort: &str, query: &str, limit: &u8) -> String {
-    let mut url = format!(
-        "https://reddit.com/r/{}/{}.json?limit={}",
-        subreddit, sort, limit
-    )
-    .to_string();
 
-    if query != "" {
-        url.push_str(format!("&q={}", query).as_str());
+    if query == ""
+    {
+        return format!(
+            "https://reddit.com/r/{}/{}.json?limit={}",
+            subreddit, sort, limit
+        );
     }
-    return url;
-}
+    else 
+    {
+        return format!(
+            "https://reddit.com/r/{}/search.json?q={}&limit={}&sort={}",
+             subreddit,query,limit,sort
+        );
+    }
 
+}
+  
 fn create_url_no_sub(query: &str, sort: &str, limit: &u8) -> String {
     return format!(
         "https://reddit.com/search.json?q={}&sort={}&limit={}",

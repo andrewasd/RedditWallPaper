@@ -27,6 +27,20 @@ chmod +x install.sh &&
 `redwall set <seconds>`  
     to stop: `redwall stop`  
 
+**override configs with**  
+`redwall change -r <subreddit> -s <sort> -l <limit>`   
+all parameters are optional  
+example:  `redwall change -r earthPorn -s hot -l 30`  
+
+you can also select to match something example   
+`redwall change -r earthPorn -m norway`  
+returns a pic from /r/earthPorn related to norway  
+
+you can call the match aslo without the sub  
+`redwall change -m norway`  
+return a pic related to norway regardless of the subreddit  
+
+
 
 
 
