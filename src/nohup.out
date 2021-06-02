@@ -303,3 +303,4 @@ This may indicate that pixbuf loaders or the mime database could not be found.
 
 (code-insiders:3722): Gtk-WARNING **: 14:40:03.859: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
 [3752:0601/215201.570904:ERROR:gl_utils.cc(314)] [.RendererMainThread-0x13239e7bf500] GL_INVALID_FRAMEBUFFER_OPERATION: Draw framebuffer is incomplete
+Gtk-Message: 00:09:50.248: Failed to load module "appmenu-gtk-module"

@@ -24,7 +24,13 @@ chmod +x src/*
 
 cp -r src/* ${INSTALL_DIR}
 chmod +x /home/`whoami`/.RedditWallPaper/*
-mkdir /home/`whoami`/.RedditWallPaper/pics
+
+if ! [[ -d "${INSTALL_DIR}/pics" ]]
+then
+  mkdir /home/`whoami`/.RedditWallPaper/pics
+fi
+
+
 # add to path
 echo "PATH=""${INSTALL_DIR}:"\$"PATH">> /home/`whoami`/.bashrc
 export PATH=${INSTALL_DIR}:$PATH
