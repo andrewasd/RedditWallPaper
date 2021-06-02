@@ -8,7 +8,7 @@ it supports GNOME,KDE,CINNAMON,UNITY
 
 
 **Requirments**  
-curl ,node.js  
+curl
  
 **Installation**:  
 `git clone https://github.com/andrewasd/RedditWallPaper.git &&
