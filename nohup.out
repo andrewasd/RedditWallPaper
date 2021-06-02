@@ -37,3 +37,22 @@ Gtk-Message: 00:22:58.478: Failed to load module "appmenu-gtk-module"
 [90m[main 2021-06-02T22:22:58.669Z][0m update#setState idle
 [90m[main 2021-06-02T22:23:28.681Z][0m update#setState checking for updates
 [90m[main 2021-06-02T22:23:28.747Z][0m update#setState available for download
+
+(code-insiders:523509): Gtk-WARNING **: 00:36:15.104: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+
+(code-insiders:523509): Gtk-WARNING **: 00:36:15.104: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:523509): Gtk-WARNING **: 00:36:15.139: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:523509): Gtk-WARNING **: 00:36:22.134: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:523509): Gtk-WARNING **: 00:36:22.149: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:523509): Gtk-WARNING **: 00:36:27.742: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:523509): Gtk-WARNING **: 00:36:27.750: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:523509): Gtk-WARNING **: 00:36:32.237: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+
+(code-insiders:523509): Gtk-WARNING **: 00:36:32.245: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
