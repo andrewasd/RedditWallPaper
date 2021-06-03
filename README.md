@@ -6,6 +6,8 @@ you can select the subreddits you want to chose with `redwall config`
 
 it supports GNOME,KDE,CINNAMON,UNITY  
 
+![alt text](https://pbs.twimg.com/media/EAF9qbVXkAAo1io.jpg)
+
 
 **Requirments**  
 curl
@@ -17,17 +19,17 @@ chmod +x install.sh &&
 ./install.sh  
 `
 
-**Chose desired subreddits and configurations**
+**Chose desired subreddits and configurations:**
 `redwall config`
 
-**set random background once** :  
+**set random background once: **  
 `redwall change`
 
 **change random background every x seconds**  
 `redwall set <seconds>`  
     to stop: `redwall stop`  
 
-**override configs with**  
+**override configs with:**  
 `redwall change -r <subreddit> -s <sort> -l <limit>`   
 all parameters are optional  
 example:  `redwall change -r earthPorn -s hot -l 30`  
