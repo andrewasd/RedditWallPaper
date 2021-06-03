@@ -15,10 +15,10 @@
         {
             "type": "bashdb",
             "request": "launch",
-            "name": "Bash-Debug (hardcoded script name)",
+            "name": "redwall debug",
             "cwd": "${workspaceFolder}",
             "program": "${workspaceFolder}/src/redwall",
-            "args": ["set"]
+            "args": ["set","10","-r","irl"]
         },
         {
             "type": "pwa-node",

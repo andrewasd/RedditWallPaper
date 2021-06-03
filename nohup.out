@@ -56,3 +56,4 @@ This may indicate that pixbuf loaders or the mime database could not be found.
 (code-insiders:523509): Gtk-WARNING **: 00:36:32.237: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
 
 (code-insiders:523509): Gtk-WARNING **: 00:36:32.245: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
+Gtk-Message: 20:52:37.506: Failed to load module "appmenu-gtk-module"

@@ -21,7 +21,7 @@ fi
 
 #check if value 
 
-if  [[ "$scale" =~ ^[0-9]+$ ]]
+if  [[ "$VAL" =~ ^[0-9]+$ ]]
     then
         if [ $VAL -ge 0 ]; then
           ISNUM=true
@@ -34,11 +34,15 @@ fi
 if [[ "$1" == "set" ]]
 then
    if [[ "$ISNUM" == "true" ]]; then
-      watch -n $VAL setwallpaper.sh > /dev/null & disown
+      shift 
+      shift
+      watch -n $VAL setwallpaper.sh $@ > /dev/null & disown
       echo "wallpaper changing every $VAL seconds"
       echo "type 'redwall stop' to stop"
       exec
   fi
+  else
+      echo "not working"
 fi
 
 if [[ "$1" == "change" ]]
