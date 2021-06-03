@@ -29,7 +29,7 @@ chmod +x install.sh &&
 `redwall set <seconds>`  
     to stop: `redwall stop`  
 
-**override configs with:**
+**override configs with:**  
 `redwall change -r <subreddit> -s <sort> -l <limit>`   
 all parameters are optional  
 example:  `redwall change -r earthPorn -s hot -l 30`  
