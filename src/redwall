@@ -41,8 +41,6 @@ then
       echo "type 'redwall stop' to stop"
       exec
   fi
-  else
-      echo "not working"
 fi
 
 if [[ "$1" == "change" ]]

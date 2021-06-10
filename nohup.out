@@ -57,3 +57,9 @@ This may indicate that pixbuf loaders or the mime database could not be found.
 
 (code-insiders:523509): Gtk-WARNING **: 00:36:32.245: Error loading theme icon 'gtk-cancel' for stock: Failed to load /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: Error opening file /home/andreipc/.local/share/icons/Cyan-Breeze-Dark-Icons/actions/16@2x/gtk-cancel.svg: No such file or directory
 Gtk-Message: 20:52:37.506: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:35:53.962: Failed to load module "appmenu-gtk-module"
+[90m[main 2021-06-10T13:35:54.270Z][0m update#setState idle
+(node:54872) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+[90m[main 2021-06-10T13:36:24.281Z][0m update#setState checking for updates
+[90m[main 2021-06-10T13:36:24.345Z][0m update#setState available for download
